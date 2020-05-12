@@ -1,6 +1,6 @@
 # sam-app + Cognito
 
-This is a toy app to demonstrate adding Cognito authorization to the basic hello-world SAM app.
+This is a toy app to demonstrate adding Cognito authorization to the basic hello-world SAM app.  My writeup for how to get here is [here](https://bwarren2.github.io/aws-lambda-backed-apigateway-w-cognito-authorizer.html)
 
 ## Deploy the sample application
 
