@@ -1,0 +1,11 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "sam-app"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-g2cdu2zo638n"
+s3_prefix = "sam-app"
+region = "us-east-1"
+profile = "betteraws"
+capabilities = "CAPABILITY_IAM"
+
